@@ -23,6 +23,7 @@
     <ProjectReference Include="..\PedidosApi.Application\PedidosApi.Application.csproj" />
     <ProjectReference Include="..\PedidosApi.Domain\PedidosApi.Domain.csproj" />
     <ProjectReference Include="..\PedidosApi.Infra.Data\PedidosApi.Infra.Data.csproj" />
+    <ProjectReference Include="..\PedidosApi.Infra.Messages\PedidosApi.Infra.Messages.csproj" />
   </ItemGroup>
 
 </Project>
