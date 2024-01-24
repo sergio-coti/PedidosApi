@@ -2,6 +2,10 @@
 bin/
 obj/
 
+docker-compose.dcproj
+docker-compose.override.yml
+docker-compose.yml
+
 # User-specific files
 *.suo
 *.user
